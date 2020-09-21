@@ -2,7 +2,7 @@ Hi. I'm Andrew. You can refer to me as slug. I like to sharpen my own knifes...
 
 I used to be a software engineer by day. I worked in various languages. I had a lot of fun developing toys using actionscript 3. I did way too much hackery in javascript prior to jQuery and even after. I ventured into the dark arts of EJBs with Oracle. I was cleansed by the Spring. I have journeyed through makefiles, bat files, ant files, maven poms, gradle files and back home to maven poms.
 
-Now I program things for fun by night. I write less toys and focus more on functional tools. I attempt something new with every project I undertake. Anyone can ask me anytime for the story that led me to an opinion. I have many opinions and thus many stories. 
+Now I program things for fun by night. I write less toys and focus more on functional tools. I attempt something new with every project. Anyone can ask me anytime for the story that led me to an opinion. Some might say I have many stories. 
 
 In future... I will still code for fun and might submit a pull request to an open source project.
 
