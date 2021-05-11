@@ -5,6 +5,10 @@ I used to be a software engineer by day. I worked in various languages. I had a 
 Now I program things for fun by night. I write fewer toys and focus more on functional tools; attempt something new with every project. Anyone can ask me anytime for the story that led me to an opinion. Some might say I have many stories.
 In the future, I will still code for fun and might submit a pull request to an open-source project.
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avanderw&layout=compact&langs_count=5" />
+</a>
+
 <!--
 **avanderw/avanderw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
