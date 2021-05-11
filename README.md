@@ -6,7 +6,7 @@ Now I program things for fun by night. I write fewer toys and focus more on func
 In the future, I will still code for fun and might submit a pull request to an open-source project.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avanderw&layout=compact&langs_count=5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avanderw&layout=compact&hide_title=true&hide_border=true&lang_count=5" />
 </a>
 
 <!--
