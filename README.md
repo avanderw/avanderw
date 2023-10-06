@@ -1,25 +1,17 @@
-Hi. I'm Andrew. You can refer to me as the slug. I like to sharpen my knives...
+The first time I tried a marinara marinade bath, I couldn't get into the spicy meatball mindset. I did half as a joke and half out of curiosity. Even though I wasn't quite there yet emotionally, there was something strangely comforting about being engulfed in such a savoury sauce. I felt at peace, and I think that scared me. Afterwards, I felt... different. Changed, somehow.
 
-I used to be a software engineer by day. I worked in various languages. I had a lot of fun developing toys using Actionscript 3. I did way too much hackery in javascript before jQuery, ventured into the dark arts of EJBs with Oracle, eventually saw the light, and the Spring cleansed me. I have journeyed through makefiles, bat files, ant files, maven poms, Gradle files, and back home to maven poms.
+I tried not to think about it, but I couldn't get that tangy red sauce out of my mind. After particularly long, stressful days, it was the worst in the evenings. I longed for the comfort of a marinara bath almost every minute of the day. I was spending hundreds of dollars a day to fulfil my needs, but it didn't matter; money could not get in the way of me and my addiction. I realised that I had been living a lie my whole life. I was not the man I thought I was. No, I was not a man at all. I was a meatball, the spiciest of my kind.
 
-Now I program things for fun by night. I write fewer toys and focus more on functional tools; attempt something new with every project. Anyone can ask me anytime for the story that led me to an opinion. Some might say I have many stories.
-In the future, I will still code for fun and might submit a pull request to an open-source project.
+These thoughts gave me peace, knowing I was handcrafted with love and attention, seasoned to perfection and perfectly rounded. I began to realize that I had a purpose, a feeling I had never felt before. These feelings filled me, and I felt a wholeness I had never thought possible; I was becoming who I had always meant to be. Not become, I WAS. I was, and would forever be the spiciest meatball.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avanderw&layout=compact&hide_title=true&hide_border=true&lang_count=5" />
-</a>
+Though I had come to this realization, it had not occurred to me the struggle for acceptance I would face. At work, customers complained of my aroma, judgemental of the herbaceous tomato scent I exuded. My skin began to yellow, stained by my protector, my home. I started sleeping in the marinara sauce, spending every waking minute waiting for the moment I could return to my rightful place.
 
-<!--
-**avanderw/avanderw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This continued for some time until I was faced with an ultimatum. By now, my boss had noted a decline in my performance. Upon noticing my pruny hands, lack of concentration, and now orange skin, he gave me a choice. See a doctor or lose my job. I was immediately alarmed. How could I afford the many gallons of marinara I used each day if I did not have a job? I had to see a doctor, afterall nothing was really WRONG with me. The pruning would go away or become easier to manage. It was early in my transformation, I would grow into this new form, just as I had learned to walk.
 
-Here are some ideas to get you started:
+At the doctors, it was impressed upon me that the issue was not physical but rather mental. I was told I had a rare psychological condition, somewhere between body dysmorphia and psychosis. Although reluctant, I was given a prescription, which I was told to take religiously daily. I was warned that the side effects of quitting unexpectedly would be catastrophic, so I heeded the doctor's orders and took my medication.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For a long time, things were alright. Not the same on-top-of-the-world, ultimate sense of being I was experiencing before, but they were okay. I was told that the meds were necessary, so I blindly obeyed. I returned to work, and my skin returned to its hue, though the world seemed grey. I began going on dates, finding comfort in the companionship of women and men. I could almost feel the warmth I felt covered in the marinara sauce just as I climaxed, but it was a short and fleeting feeling and never quite as strong as the utter perfection I felt with my forbidden lover.
+
+I finally broke, late one night, after a girl I had been seeing found some old pictures I had taken of me in the tub. She looked scared and confused. I knew she didn't understand my love for the sauce the moment I saw that look on her face. I knew she would never accept me for the spicy meatball that I was. When I saw that look, my feelings for her changed completely. How could I have been such a fool, falling for a bigot when the only true love I ever needed was waiting so patiently to accept me once more, cover me and love me with a warmth only a marinara could afford? She left, and in a moment of clarity, I emptied the contents of my secret marinara stash into the tub and flushed the remainder of my prescription down the toilet.
+
+I felt shame as I let the velvety, loving tomato blanket envelope me. However, it didn't take long for that shame to be washed away and replaced only with feelings of comfort and joy. It didn't matter to me what the world saw as long as I knew in my heart that I was the spiciest meatball I could be and that I was doing my best. In the face of adversity, I could rise above the hate and discrimination as long as I had my comforting marinara haven to retreat to. That was all that mattered now; that was all that would ever matter again. I had become one with the marinara, the lifeblood in which to soak myself, which kept my meatball self moist and delicious and, above all, spicy.
